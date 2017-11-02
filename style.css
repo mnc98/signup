@@ -1,5 +1,5 @@
 body {
-	background: #DCDDDF url(https://allthepics.net/content/images/system/home_cover_1501280684529_da68e3.jpg);
+	background-color: #000000;
 	color: #FFFFFF;
 	font: 28px Arial;
 	margin: 0 auto;
@@ -10,4 +10,20 @@ body {
 html {
   text-align: center;
   position: relative;
+}
+div.container {
+      border: 2px solid #840808;
+      padding: 6px;
+      width: 600px;
+      margin:20px auto;
+      text-align:center;
+      color: #ffffff;
+}
+button {
+	  background-color: #000000;
+      color: white;
+      padding: 6px 15px;
+      margin: 8px 0;
+      width: 25%;
+      border: 2px solid #840808;
 }
