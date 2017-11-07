@@ -47,12 +47,7 @@
         <button type="submit">Login</button>     
       </div>
     </form>
-
-    <!-- <form action="https://web.njit.edu/~mnc24/signup/form.php">
-      <div>
-        <button type="http://google.com">Sign Up</button>
-      </div>
-    </form> -->
+    <a href="https://web.njit.edu/~mnc24/signup/form.php">Register!</a>
   </div>
 </body>
 

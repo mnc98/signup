@@ -68,6 +68,7 @@ button {
         <!-- <a href="https://web.njit.edu/~mnc24/signup/login.php">Sign Up</a> -->
       <!-- <button type="https://web.njit.edu/~mnc24/signup/login.php">Cancel</button> -->
       <!-- <a href="https://web.njit.edu/~mnc24/signup/login.php">Cancel</a> -->
+      <a href="https://web.njit.edu/~mnc24/signup/login.php">Cancel</a>
     </div>
   </div>
 </form>
